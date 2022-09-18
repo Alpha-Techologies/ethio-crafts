@@ -1141,6 +1141,7 @@ img {
         }
         h4 {
             margin-bottom: 0;
+            color: whitesmoke;
             @include trans-duration(250ms);
         }
     }
@@ -1153,7 +1154,7 @@ img {
         .hover-content {
             p,
             h4 {
-                color: #fff;
+                color: #FAB808;
             }
         }
     }

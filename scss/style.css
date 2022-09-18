@@ -1158,6 +1158,7 @@ img {
 }
 .single-products-catagory .hover-content h4 {
   margin-bottom: 0;
+  color: whitesmoke;
   transition-duration: 250ms;
 }
 .single-products-catagory:hover a::after, .single-products-catagory:focus a::after {
@@ -1167,7 +1168,7 @@ img {
 .single-products-catagory:hover .hover-content p,
 .single-products-catagory:hover .hover-content h4, .single-products-catagory:focus .hover-content p,
 .single-products-catagory:focus .hover-content h4 {
-  color: #fff;
+  color: #FAB808;
 }
 
 /* :: 6.0 Newsletter Area CSS */
